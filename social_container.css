@@ -1,0 +1,27 @@
+#social-container, #social-container p{    
+    margin-bottom: 1.25rem;
+        
+}
+
+#social-container i {    
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 1.5rem;
+    
+}
+
+.fa-facebook-f{
+    background-color:#1f7Bf2;
+
+}
+
+.fa-linkedin{
+    background-color: #086b9c;
+}
+
+.fa-whatsapp{
+    background: linear-gradient(to bottom, #5ff475, #38c33a);
+}
